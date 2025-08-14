@@ -4,7 +4,22 @@
     <img src="./.github/logo-dark.png" alt="logo">
 </picture>
 
-Useful tools for developer and people working in IT. [Have a look !](https://it-tools.tech).
+<p align="center">
+Useful tools for developer and people working in IT. <a href="https://it-tools.tech">Try it!</a>
+</p>
+
+
+## Sponsors
+
+<p align="center">
+  IT-Tools is proudly sponsored by:
+</p>
+
+<p align="center">
+  <a href="https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=it-tools">
+    <img src="./.github/warp-banner.png" alt="Warp Banner">
+  </a>
+</p>
 
 ## Functionalities and roadmap
 
